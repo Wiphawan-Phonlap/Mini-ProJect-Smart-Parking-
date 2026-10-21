@@ -27,8 +27,8 @@
 #define RESET_SW_PIN  32   
 
 // --- Configuration ---
-#define BOTtoken "8077783059:AAHLq-_w_EVlsn3xREiUROT7_c6KPKkWYsY"
-#define CHAT_ID "-1003546434420"
+#define BOTtoken 
+#define CHAT_ID 
 const char* serverUrl = "http://172.24.162.203/smart_parking/api.php"; 
 
 // --- Objects ---
